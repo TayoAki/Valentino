@@ -57,6 +57,7 @@ header {
 .main-btn:hover {
   color: white;
   text-decoration: none;
+  background-color: rgb(211,182,80);
 }
 
 .header_hero_content .main-btn {

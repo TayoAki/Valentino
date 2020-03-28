@@ -21,3 +21,20 @@
   vertical-align: middle;
 }
 
+.btn a {
+  color: white;
+  text-decoration: none;
+}
+
+.btn.btn-primary.main-btn {
+  border-color: white;
+}
+
+.btn.btn-primary.main-btn:hover {
+  color: white;
+}
+
+.btn.btn-primary.main-btn {
+  border-color: white;
+}
+
